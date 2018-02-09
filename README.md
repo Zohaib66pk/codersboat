@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zohaib
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
@@ -26,3 +27,6 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# codersboat
+>>>>>>> b2832d4101839ec2f0884f94ca22cfae9095316c
